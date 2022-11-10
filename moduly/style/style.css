@@ -1,0 +1,50 @@
+/* table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid black;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    max-width: 700px;
+    text-align: center;
+}
+
+form input {
+    margin-bottom: 10px;
+}
+
+#edit-user,
+#add-user {
+    display: none;
+}
+#serchByName{
+    width: 50%;
+    margin: 10px;
+} */
+
+
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+
+
+h1 {
+    position: center;
+    background: khaki;
+    font-size: 50px;
+    border: 1px solid rgb(0, 0, 0);
+    color: rgb(53, 44, 16);
+
+}
+
